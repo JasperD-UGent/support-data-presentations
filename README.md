@@ -22,6 +22,10 @@ Oral talk and poster presented at the [2024 Joint International Conference on Co
 
 Oral talk presented at the [13th Workshop on Natural Language Processing for Computer Assisted Language Learning](https://nlp4call2024.sciencesconf.org/), entitled "Leading by Example: The Use of Generative Artificial Intelligence to Create Pedagogically Suitable Example Sentences" (see also [corresponding paper](https://aclanthology.org/2024.nlp4call-1.3/)).
 
+## NLP4CALL2026
+
+Oral talk presented at the [15th Workshop on Natural Language Processing for Computer Assisted Language Learning](https://spraakbanken.gu.se/forskning/teman/icall/nlp4call-workshop-series/nlp4call2026), entitled "Lexical Profiling for Dutch: From Resource to Real-Life Implementation" (see also [corresponding paper](https://aclanthology.org/2026.nlp4call-1.2/)).
+
 ## publicPhD-defense
 
 Slides presented at my public PhD defense in October 2024.
